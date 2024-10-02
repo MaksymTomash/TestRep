@@ -2,3 +2,4 @@ HI second
 Test status
 New line
 Branch
+Git rebase
